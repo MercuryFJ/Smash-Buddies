@@ -1,0 +1,169 @@
+{
+    "activeFile": "Map.tmx",
+    "expandedProjectPaths": [
+        "bg",
+        "tsx",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Map.json": {
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 547.3333333333333,
+                "y": 294.6666666666667
+            }
+        },
+        "Map.json#darkTrees": {
+            "scaleInDock": 1
+        },
+        "Map.json#lake": {
+            "scaleInDock": 1
+        },
+        "Map.json#lightTrees": {
+            "scaleInDock": 1
+        },
+        "Map.json#sky": {
+            "scaleInDock": 1
+        },
+        "Map.json#tileset": {
+            "scaleInDock": 1
+        },
+        "Map.json#undergrowth": {
+            "scaleInDock": 1
+        },
+        "Map.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 502.66666666666663,
+                "y": 144
+            }
+        },
+        "Map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 471,
+                "y": 241
+            }
+        },
+        "Map.tmx#5": {
+            "scaleInEditor": 1
+        },
+        "Map.tmx#darkTrees": {
+            "scaleInDock": 1
+        },
+        "Map.tmx#lake": {
+            "scaleInDock": 1
+        },
+        "Map.tmx#lightTrees": {
+            "scaleInDock": 1
+        },
+        "Map.tmx#sky": {
+            "scaleInDock": 1
+        },
+        "Map.tmx#tileset": {
+            "scaleInDock": 1
+        },
+        "Map.tmx#undergrowth": {
+            "scaleInDock": 1
+        },
+        "bg/Background.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bg/Lake.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bg/Space.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bg/darkTrees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bg/ligthTrees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bg/sky.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bg/tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bg/undergrowth.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Lake.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/darkTrees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/lake.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/lightTrees.tsx": {
+            "scaleInDock": 1
+        },
+        "tsx/ligthTrees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/sky.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/undergrowth.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/alexf/OneDrive/Escritorio/DAW2A/CLIENTE/Tareas/Task5/phaser3-vite-template/public/assets",
+    "last.externalTilesetPath": "C:/Users/alexf/OneDrive/Escritorio/DAW2A/CLIENTE/Tareas/Task5/phaser3-vite-template/public/assets/tsx",
+    "last.imagePath": "C:/Users/alexf/OneDrive/Escritorio/DAW2A/CLIENTE/Tareas/Task5/phaser3-vite-template/public/assets/bg",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "Map.tmx"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "Map.tmx",
+        "tsx/Lake.tsx",
+        "tsx/undergrowth.tsx",
+        "tsx/tileset.tsx",
+        "tsx/sky.tsx",
+        "tsx/darkTrees.tsx",
+        "Map.json",
+        "tsx/lake.tsx",
+        "tsx/ligthTrees.tsx",
+        "Map.tmj",
+        "bg/Background.tsx",
+        "bg/undergrowth.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
